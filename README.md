@@ -26,7 +26,7 @@
 <details>
 
 <summary>Лабораторная работа 6</summary>
-<img src="C:\Users\Guslik\Desktop\university\Programming-C\Task\lab6.jpg">
+<img src="/Task/lab6.jpg">
 
 </details>
 
