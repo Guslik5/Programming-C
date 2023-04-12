@@ -1,4 +1,6 @@
-# Programming-C
+# Программирование на C
+
+### Таски:
 <details>
 
 <summary>Лабораторная работа 1</summary>
